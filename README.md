@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emilija
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in web development
+- 🌱 I’m currently making my own applications
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me stamenkovska.emilija93@gmail.com
