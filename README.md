@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently making my own applications
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me stamenkovska.emilija93@gmail.com
+- 📫 Reach me on stamenkovska.emilija93@gmail.com
