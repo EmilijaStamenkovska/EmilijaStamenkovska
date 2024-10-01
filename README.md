@@ -1,5 +1,5 @@
 👋 Hello! I'm Emilija Stamenkovska, a passionate web developer.  
-👀 I thrive on exploring the latest trends and techniques in web development to build innovative solutions.  
-🌱 Currently, I'm diving into personal projects, honing my skills, and bringing new ideas to life.  
-💞️ I'm always excited to collaborate on meaningful projects that push boundaries and create real impact.  
+👀 I specialize in front-end development, crafting seamless user experiences using modern technologies like React, CSS, and Material-UI. I enjoy bringing designs to life with clean, responsive interfaces and dynamic interactions.  
+🌱 Currently, I'm working on personal projects, improving my skills, and experimenting with new web development techniques.  
+💞️ I'm eager to collaborate on projects that involve creating intuitive, visually appealing interfaces with an emphasis on user-centered design.  
 📫 Feel free to reach out to me at stamenkovska.emilija93@gmail.com – I'd love to connect!
